@@ -1,0 +1,65 @@
+.body {
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Lobster', cursive;
+	background-color: #ddd;
+	letter-spacing: 1px;
+}
+
+nav {
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+}
+
+.fluid-jumbotron .slider img {
+	height: 660px;
+}
+
+.photo {
+	width: 170px;
+	height: 170px;
+	margin-top: 50px;
+	border: 5px solid #ddd;
+	box-shadow: 5px 5px 5px rgba(250, 125, 9, .6);
+	z-index: 999;
+}
+
+.content-about {
+	margin: 50px 0;
+}
+
+.footer hr,
+.contact hr {
+	width: 500px;
+	border-top: 3px solid #666;
+}
+
+.footer {
+	width: 100%;
+	height: 180px;
+	position: relative;
+}
+
+.footer .niomic {
+	border: 3px solid orange;
+}
+
+.copy {
+	font: 14px/1.5em verdana, arial;
+	margin-top: 50px;
+}
+
+/* Navbar-about */
+.navbar-about {
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+
+.fluid-jumbotron .img-fluid {
+	margin-top: 150px;
+	margin-bottom: 100px;
+}
+
+/* Contact */
+.contact {
+	margin-top: 100px;
+}
